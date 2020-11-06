@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_DsTareas.MainPage">
+
+    <StackLayout BackgroundColor="White">
+        <Label Text=" " FontSize="Small" Padding="35,35,35,35" TextColor="White"/>
+        <Image Source="logo_demosoft.png"></Image>
+        <Label Text="USUARIO: " FontSize="Small" Padding="30,10,30,10" TextColor="Black"/>
+        <Label Text="CONTRASEÑA: " FontSize="Small" Padding="30,10,30,10" TextColor="Black"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+        
+        </Label>
+    </StackLayout>
+
+</ContentPage>
